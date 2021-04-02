@@ -1,0 +1,5 @@
+---
+ name: "Maximize/minimize dashlets"
+ docs: "https://community.jaspersoft.com/documentation/tibco-jasperreports-server-visualizejs-guide/v610/api-reference-visualizejs"
+ description: "Maximize/minimize dashlets through API"
+ wrap: l

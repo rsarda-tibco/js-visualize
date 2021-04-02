@@ -1,0 +1,5 @@
+---
+ name: "Disabling report loading overlay"
+ docs: "https://community.jaspersoft.com/documentation/tibco-jasperreports-server-visualizejs-guide/v610/api-reference-visualizejs"
+ description: "Disabling report loading overlay"
+ wrap: l

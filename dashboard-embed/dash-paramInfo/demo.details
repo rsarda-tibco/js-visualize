@@ -1,0 +1,5 @@
+---
+ name: "Get information about dashboard parameters"
+ docs: "https://community.jaspersoft.com/documentation/tibco-jasperreports-server-visualizejs-guide/v610/api-reference-visualizejs"
+ description: "Get information about available dashboard parameters."
+ wrap: l

@@ -1,0 +1,5 @@
+---
+ name: "Read dashboard parameters"
+ docs: "https://community.jaspersoft.com/documentation/tibco-jasperreports-server-visualizejs-guide/v610/api-reference-visualizejs"
+ description: "Read actual applied parameter's values"
+ wrap: l

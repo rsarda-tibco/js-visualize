@@ -1,5 +1,3 @@
-// Visualize: destroy dashboards
-
 visualize({
     auth: {
         name: "joeuser",
@@ -10,16 +8,13 @@ visualize({
     var dashboard = v.dashboard({
         resource: "/public/Samples/Dashboards/1._Supermart_Dashboard",
         container: "#container",
+        //only report type dashlet will be loaded without loader
+        report: {
+            chart: {},
+            loadingOverlay: false
+        },
         error: function(e) {
             alert(e);
         }
     });
-
-    document.querySelector("button").addEventListener("click", function(e) {
-        dashboard
-            .destroy()
-            .fail(function(e) { alert(e); })
-            .done(function() { console.log("dashboard destroyed"); });
-    });
-
 });
