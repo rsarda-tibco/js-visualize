@@ -1,0 +1,5 @@
+---
+ name: "Visualize.js: Dashboard destroy"
+ docs: "https://community.jaspersoft.com/documentation/tibco-jasperreports-server-visualizejs-guide/v610/api-reference-visualizejs"
+ description: "Destroy the current dashboard"
+ wrap: l
